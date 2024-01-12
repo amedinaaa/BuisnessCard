@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Buisness Card</string>
+    <string name="Default_name">Abraham Medina</string>
+    <string name="Default_title">Android Dev Extraordinaire</string>
+    <string name="default_email">medinaab@oregonstate.edu</string>
+    <string name="default_phone_num">1-408-205-3233</string>
+</resources>
