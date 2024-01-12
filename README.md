@@ -1,6 +1,6 @@
 I created the business card sample project given in the 'Android Basics with Compose' course by Google. 
 
-* Relevant code can found in src/main/res/java.
+Relevant code can found in app/src/main/java.
 
 Screenshot of end product:
 
